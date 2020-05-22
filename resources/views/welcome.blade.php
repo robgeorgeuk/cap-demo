@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Bootcamp rules!
+                    Bootcamp #16 rules!
                 </div>
 
                 <div class="links">
